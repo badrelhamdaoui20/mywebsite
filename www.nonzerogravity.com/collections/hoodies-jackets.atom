@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/hoodies-jackets.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2022-02-06T17:09:08-08:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6676711768118</id>
+    <published>2022-02-06T17:09:08-08:00</published>
+    <updated>2022-02-06T17:09:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-antimicrobial-zintex-workout-hoodie-midnight"/>
+    <title>Men’s ZinTex Workout Hoodie - Midnight</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z26-BU-1.jpg?v=1643911953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>● Made in Los Angeles <br data-mce-fragment="1">● Regular Fit <br data-mce-fragment="1">● Vintage Wash <br data-mce-fragment="1">● Snap Button Hood<br data-mce-fragment="1">● Front Pouch Pocket<br data-mce-fragment="1">● Rimmed Hem &amp; Cuffs<br data-mce-fragment="1">● Heat-Sealed Reflective logos<br data-mce-fragment="1">● + ZinTex Technology<br data-mce-fragment="1"><br data-mce-fragment="1">A warm-up essential, the ZinTex Workout Hoodie is made for performance with UV 50+, sweat and odor-proof protection exclusive to ZinTex fabric technology. Designed in a regular fit cut using a cozy vintage wash 100% cotton with heat-sealed reflective logos: featuring “Make the Most of Every Minute” on the hood. Get maximum functionality with heavy-duty snap buttons on the hood and front pouch pocket.<br data-mce-fragment="1"><br data-mce-fragment="1">Materials: Body: 100% Cotton | Cuff: 93% Cotton, 7% Spandex<br data-mce-fragment="1"><strong>Model Height</strong>: 5'11" <strong>Size</strong>: Medium</p>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z26-Chart-all-colors_480x480.jpg?v=1645485989"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Category_Hoodies &amp; Jackets</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:tag>Winter Collection</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676711768118</id>
+      <title>X-Small</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BU-XS</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676711768118</id>
+      <title>Small</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BU-S</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676711768118</id>
+      <title>Medium</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BU-M</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676711768118</id>
+      <title>Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BU-L</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676711768118</id>
+      <title>X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BU-XL</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676711768118</id>
+      <title>2X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BU-2XL</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6676710031414</id>
+    <published>2022-02-06T17:07:58-08:00</published>
+    <updated>2022-02-06T17:07:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-antimicrobial-zintex-workout-hoodie-forest"/>
+    <title>Men’s ZinTex Workout Hoodie - Forest</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z26-GN-1.jpg?v=1643911712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>● Made in Los Angeles <br data-mce-fragment="1">● Regular Fit <br data-mce-fragment="1">● Vintage Wash <br data-mce-fragment="1">● Snap Button Hood<br data-mce-fragment="1">● Front Pouch Pocket<br data-mce-fragment="1">● Rimmed Hem &amp; Cuffs<br data-mce-fragment="1">● Heat-Sealed Reflective logos<br data-mce-fragment="1">● + ZinTex Technology<br data-mce-fragment="1"><br data-mce-fragment="1">A warm-up essential, the ZinTex Workout Hoodie is made for performance with UV 50+, sweat and odor-proof protection exclusive to ZinTex fabric technology. Designed in a regular fit cut using a cozy vintage wash 100% cotton with heat-sealed reflective logos: featuring “Make the Most of Every Minute” on the hood. Get maximum functionality with heavy-duty snap buttons on the hood and front pouch pocket.<br data-mce-fragment="1"><br data-mce-fragment="1">Materials: Body: 100% Cotton | Cuff: 93% Cotton, 7% Spandex<br data-mce-fragment="1"><strong>Model Height</strong>: 5'10" <strong>Size</strong>: Medium<strong data-mce-fragment="1"></strong></p>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z26-Chart-all-colors_480x480.jpg?v=1645485989"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Category_Hoodies &amp; Jackets</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:tag>Winter Collection</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676710031414</id>
+      <title>X-Small</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-GN-XS</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676710031414</id>
+      <title>Small</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-GN-S</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676710031414</id>
+      <title>Medium</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-GN-M</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676710031414</id>
+      <title>Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-GN-L</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676710031414</id>
+      <title>X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-GN-XL</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676710031414</id>
+      <title>2X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-GN-2XL</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6676709507126</id>
+    <published>2022-02-06T17:05:55-08:00</published>
+    <updated>2022-02-06T17:05:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-antimicrobial-zintex-workout-hoodie-coal"/>
+    <title>Men’s ZinTex Workout Hoodie - Coal</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z26-BK-1.jpg?v=1643911606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>● Made in Los Angeles <br data-mce-fragment="1">● Regular Fit <br data-mce-fragment="1">● Vintage Wash <br data-mce-fragment="1">● Snap Button Hood<br data-mce-fragment="1">● Front Pouch Pocket<br data-mce-fragment="1">● Rimmed Hem &amp; Cuffs<br data-mce-fragment="1">● Heat-Sealed Reflective logos<br data-mce-fragment="1">● + ZinTex Technology<br data-mce-fragment="1"><br data-mce-fragment="1">A warm-up essential, the ZinTex Workout Hoodie is made for performance with UV 50+, sweat and odor-proof protection exclusive to ZinTex fabric technology. Designed in a regular fit cut using a cozy vintage wash 100% cotton with heat-sealed reflective logos: featuring “Make the Most of Every Minute” on the hood. Get maximum functionality with heavy-duty snap buttons on the hood and front pouch pocket.<br data-mce-fragment="1"><br data-mce-fragment="1">Materials: Body: 100% Cotton | Cuff: 93% Cotton, 7% Spandex<br data-mce-fragment="1"><strong>Model Height:</strong> 5'10" <strong>Size:</strong> Medium<strong data-mce-fragment="1"></strong></p>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z26-Chart-all-colors_480x480.jpg?v=1645485989"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Category_Hoodies &amp; Jackets</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:tag>Winter Collection</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676709507126</id>
+      <title>X-Small</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BK-XS</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676709507126</id>
+      <title>Small</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BK-S</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676709507126</id>
+      <title>Medium</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BK-M</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676709507126</id>
+      <title>Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BK-L</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676709507126</id>
+      <title>X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BK-XL</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6676709507126</id>
+      <title>2X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-Z26-BK-2XL</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/2223109177401</id>
+    <published>2020-04-28T17:02:22-07:00</published>
+    <updated>2020-04-28T17:02:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-sauna-suit-jacket"/>
+    <title>Magma Men’s Sauna Jacket</title>
+    <s:type>Sauna Suits</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-M81-3-new.jpg?v=1561052422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Sauna Suits<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<div><b></b></div>
+<div>
+<ul>
+<li>Aids in weight loss + muscle performance</li>
+<li>Flexible fit that moves with you</li>
+<li>Flat-lock stitching + mesh underarms</li>
+<li>Two spacious zipper pockets</li>
+<li>Reflective logo for safety in low lighting</li>
+</ul>
+<p>The Magma Men’s Sauna Jacket maximizes performance throughout your workout in a sleek athleisure-style hoodie that makes a statement. This unique strategy is used by boxers, wrestlers and MMA fighters to cut weight, but is also proven to help burn fat, increase calorie expenditure, improve flexibility and maximize muscle performance. Complete with flat-lock stitching and mesh underarms, the Magma Sauna Jacket works just as hard as you do, so you can make the most of every minute.</p>
+<p>Materials: 100% Neoprene</p>
+<p>Care: Hand wash in cold water. Lay flat to dry out of direct sunlight. Do not dry clean, iron or tumble dry.</p>
+</div>
+<div></div>
+<p> </p>
+<p><img src="//cdn.shopify.com/s/files/1/2589/3384/files/NZG-Mens-NZ-M81-Jacket_6c4ef5c9-5806-4458-979d-625decfc2c06_large.jpg?v=1545439884" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Category_Hoodies &amp; Jackets</s:tag>
+    <s:tag>Collection_Sauna Suit</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223109177401</id>
+      <title>Small</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-M81-BK-S</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223109177401</id>
+      <title>Medium</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-M81-BK-M</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223109177401</id>
+      <title>Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-M81-BK-L</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223109177401</id>
+      <title>X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-M81-BK-XL</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223109177401</id>
+      <title>2X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-M81-BK-2XL</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223109177401</id>
+      <title>3X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-M81-BK-3XL</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223109177401</id>
+      <title>4X-Large</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-M81-BK-4XL</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/2296091377721</id>
+    <published>2020-04-28T17:02:20-07:00</published>
+    <updated>2020-04-28T17:02:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-sauna-hoodie"/>
+    <title>Men’s Sauna Hoodie</title>
+    <s:type>Sauna Suits</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-M85-M-1.jpg?v=1561053667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Sauna Suits<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>• Aids in cutting weight and boosting muscle performance<br>• Breathable mesh underarms<br>• Anti-chafing seams<br>• Reflective logos for safety<br>• Unisex, slightly tapered fit<br><br>The Unisex Sauna Hoodie features a no-frills design that’s comfortable and high-performance. Constructed of premium quality neoprene, this hoodie gives full coverage for a wide range of body types and retains body heat so you can get the most out of your workout. Designed for a full-coverage fit that doesn’t pull any punches, the Unisex Sauna Hoodie helps you make the most of every minute.<br><br>Materials: 100% Neoprene<br><br>Care: Hand wash in cold water. Lay flat to dry out of direct sunlight. Do not dry clean, iron or tumble dry.</p>
+<p> </p>
+<p><img src="//cdn.shopify.com/s/files/1/0089/4379/6281/files/NZG-NZ-M85-Hoodie2.jpg?v=1560784487" alt="Nonzero Gravity Sauna Hoodies"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Category_Hoodies &amp; Jackets</s:tag>
+    <s:tag>Collection_Sauna Suit</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2296091377721</id>
+      <title>2X-Small</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>NZ-M85-BK-XXS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2296091377721</id>
+      <title>X-Small</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>NZ-M85-BK-XS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2296091377721</id>
+      <title>Small</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>NZ-M85-BK-S</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2296091377721</id>
+      <title>Medium</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>NZ-M85-BK-M</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2296091377721</id>
+      <title>Large</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>NZ-M85-BK-L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2296091377721</id>
+      <title>X-Large</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>NZ-M85-BK-XL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2296091377721</id>
+      <title>2X-Large</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>NZ-M85-BK-2XL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2296091377721</id>
+      <title>3X-Large</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>NZ-M85-BK-3XL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

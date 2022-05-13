@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/training-equipment.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2021-08-04T09:56:51-07:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6615592697910</id>
+    <published>2021-08-04T09:56:51-07:00</published>
+    <updated>2021-08-04T09:56:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/natural-rubber-power-resistance-band-3-piece-beginner-set"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Beginner Set (3-Piece)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB-Beginner-set-1.jpg?v=1628096112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made from Natural Rubber<br>● 10 to 140 LBS Tensity<br>● Reusable Velcro Strap<br>● Light to High Intensity<br>● Available in Singles &amp; Sets<br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. NZG uses an exclusive manufacturing method to provide 100% latex-free natural rubber bands derived from tree sap. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! Available to order individually or in pairs.<br><br><strong>Care</strong>: Clean with a damp towel and air dry.<br><br><strong>Materials</strong>: Latex Free Rubber<br><br><strong>Length</strong>: 41-inches<br><br><strong>Thickness</strong>: 0.16-inches<br><br><strong>Width</strong>: Yellow 0.25", Red 0.5", Green 0.75".</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6615592697910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NZ-RB-BEGINNERSET</s:sku>
+      <s:grams>2858</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6611062587446</id>
+    <published>2021-07-30T11:47:00-07:00</published>
+    <updated>2021-07-30T11:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/powerdyne-adjustable-dumbbell-stand"/>
+    <title>PowerDyne Dumbbell Stand</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-ST-PD-1.jpg?v=1627498375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Holds 2 PowerDyne Dumbbells</li>
+<li>Steel Hardware &amp; Base</li>
+<li>Height: 24.2-inches</li>
+<li>Heavy-Duty Brake Locks</li>
+<li>Swivel Caster Wheels</li>
+</ul>
+<p>Take your home gym setup to the next level with the PowerDyne Stand compatible with all versions of PowerDyne Adjustable Dumbbells. The base is made with heavy-duty steel and holds two (2) PowerDyne Dumbbells at a time. Transport your set from one place to another with four (4) swivel caster wheels made of nylon with steel brake locks. Place the stand on a smooth surface and lock it securely in place before use.</p>
+<p><strong>Material: </strong>Steel, Nylon</p>
+<p><strong>Dimensions:</strong> 27.56x 22.64x24.2-inches (LxWxH). Tray Dimension measures: 16.25" L x 7.85" W.  </p>
+<p> </p>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/cegwhwsfk0Y" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6611062587446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>NZ-ST-PD</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6601339273270</id>
+    <published>2021-06-25T16:36:03-07:00</published>
+    <updated>2021-06-25T16:36:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/power-dyne-adjustable-dumbbell-110lbs-set"/>
+    <title>PowerDyne Adjustable 55lbs Dumbbell (Pair)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/N0VXTC_2.jpg?v=1624664184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            369.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>● Free Standard Shipping!<br data-mce-fragment="1">● 10 to 110lbs (55lbs each)<br data-mce-fragment="1">● 20 Iron Weight Plates <br data-mce-fragment="1">● No-Slip Grip<br data-mce-fragment="1">● Compact Design <br data-mce-fragment="1">● Ships in 4 Packages <br data-mce-fragment="1"><br data-mce-fragment="1">Tone and sculpt specific muscle groups while increasing strength with the PowerDyne 55lbs Adjustable Dumbbell. Ten (10) adjustable iron weight plates increment from 5lbs up to 55lbs to match your training intensity. To adjust the dumbbell weight, unlock, align to the desired weight, and secure back into place. Safely and securely lift weights with no-slip grip handles. The compact design measures 9.25x15.5x3.75-inches in a sturdy and secure storage tray with lifting handles. The perfect addition to your home gym! <br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1">Weight Increments: 5, 7, 9, 11, 13, 15, 18, 20, 22, 24, 26, 28, 33, 37, 42, 46, 51 to 55 lbs.<br data-mce-fragment="1">Materials: Iron, Aluminum, Glass Fiber Filled Nylon, Polycarbonate &amp; Acrylonitrile Butadiene Styrene Plastic. <br data-mce-fragment="1">Care: Avoid moisture and use in a dry environment. <br data-mce-fragment="1">Shipping: The product will ship in 4 separate packages. <br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6601339273270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">369.95</s:price>
+      <s:sku>NZ-DB-PD55*2</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6601338945590</id>
+    <published>2021-06-25T16:35:45-07:00</published>
+    <updated>2021-06-25T16:35:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/power-dyne-adjustable-dumbbell-55-lbs"/>
+    <title>PowerDyne Adjustable 55lbs Dumbbell (Single)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-DB-PD55-1.jpg?v=1624664015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● Free Standard Shipping!<br data-mce-fragment="1">● 5 to 55lbs <br data-mce-fragment="1">● No-Slip Grip <br data-mce-fragment="1">● Compact Design <br data-mce-fragment="1">● 10 Iron Weight Plates <br data-mce-fragment="1">● Ships in 2 Packages <br data-mce-fragment="1"><br data-mce-fragment="1">Tone and sculpt specific muscle groups while increasing strength with the PowerDyne 55lbs Adjustable Dumbbell. Ten (10) adjustable iron weight plates increment from 5lbs up to 55lbs to match your training intensity. To adjust the dumbbell weight, unlock, align to the desired weight, and secure back into place. Safely and securely lift weights with no-slip grip handles. The compact design measures 15.16x 8.54x 9.13-inches in a sturdy and secure storage tray with lifting handles. The perfect addition to your home gym! <br data-mce-fragment="1"><br data-mce-fragment="1">Weight Increments: 5, 7, 9, 11, 13, 15, 18, 20, 22, 24, 26, 28, 33, 37, 42, 46, 51 to 55 lbs.<br data-mce-fragment="1">Materials: Iron, Aluminum, Glass Fiber Filled Nylon, Polycarbonate &amp; Acrylonitrile Butadiene Styrene Plastic. <br data-mce-fragment="1">Care: Avoid moisture and use in a dry environment. <br data-mce-fragment="1">Shipping: The product will ship in 2 separate packages. <br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6601338945590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku>NZ-DB-PD55</s:sku>
+      <s:grams>25401</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582634905654</id>
+    <published>2021-05-06T09:40:42-07:00</published>
+    <updated>2021-05-06T09:40:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/natural-rubber-power-resistance-band-140-lbs-single-gold"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Band High-Intensity Gold 140 LBS (Single)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB140-1_7675f774-3942-4bd5-aefd-169e85878380.jpg?v=1621629715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>● 100% Latex-Free<br data-mce-fragment="1">● Made from Natural Rubber <br data-mce-fragment="1">● 10 to 140 LBS Tensity <br data-mce-fragment="1">● Reusable Velcro Strap<br data-mce-fragment="1">● Light to High Intensity <br data-mce-fragment="1">● Available in Singles &amp; Sets<br data-mce-fragment="1"><br data-mce-fragment="1">Power Resistance Bands use high strength and rapid rebound to intensify your workouts. NZG uses an exclusive manufacturing method to provide 100% latex-free natural rubber bands derived from tree sap. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! Available to order individually or in pairs.<br>
+</div>
+<p><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Care</strong>: Clean with a damp towel and air dry.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Materials</strong>: Latex Free Rubber<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Length</strong>: 41-inches<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Thickness</strong>: 0.16-inches<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Width</strong>: Gold 3"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582634905654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-RB140</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6583702585398</id>
+    <published>2021-05-06T08:54:29-07:00</published>
+    <updated>2021-05-06T08:54:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/100-latex-free-natural-rubber-power-resistance-band-11-piece-complete-set"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Complete Set (11-Piece)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB-Whole-set-1.jpg?v=1621629875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            156.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made with Natural Rubber <br>● 11 Resistance Bands <br>● 10 to 140 LBS Tensity <br>● Reusable Velcro Strap<br>● Light to High Intensity <br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. The Complete 11-Piece Set includes (2) double 10 to 50 LBS bands and (1) single 85 to 140 LBS bands. NZG uses an exclusive manufacturing process to provide 100% latex-free natural rubber bands derived from Para Rubber trees. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! <br><br><strong>Care</strong>: Clean with a damp towel and air dry. <br><strong>Materials:</strong> 100% Natural Rubber <br><strong>Length</strong>: 41-inches <br><strong>Thickness</strong>: 0.16-inches <br><strong>Width</strong>: Yellow 0.25", Red 0.5", Green 0.75", Blue 1.13", Black 1.75", Silver 2.5", Gold 3". <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6583702585398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>NZ-RB-11PK</s:sku>
+      <s:grams>2858</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582632808502</id>
+    <published>2021-05-04T12:29:12-07:00</published>
+    <updated>2021-05-04T12:29:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/natural-rubberpower-resistance-band-35-lbs-set-of-2-green"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Medium-Intensity Green 35 LBS (Set of 2)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB35-1_b3d9ae6a-8e86-4614-8b03-05fbcd26c51d.jpg?v=1621636717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made from Natural Rubber<br>● 10 to 140 LBS Tensity<br>● Reusable Velcro Strap<br>● Light to High Intensity<br>● Available in Singles &amp; Sets<br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. NZG uses an exclusive manufacturing method to provide 100% latex-free natural rubber bands derived from tree sap. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! Available to order individually or in pairs.<br><br><strong>Care</strong>: Clean with a damp towel and air dry.<br><br><strong>Materials</strong>: Latex Free Rubber<br><br><strong>Length</strong>: 41-inches<br><br><strong>Thickness</strong>: 0.16-inches<br><br><strong>Width:</strong> 0.75"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582632808502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>NZ-RB35*2</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582633201718</id>
+    <published>2021-05-04T12:28:58-07:00</published>
+    <updated>2021-05-04T12:28:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/natural-rubberpower-resistance-band-50-lbs-set-of-2-blue"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Medium-Intensity Blue 50 LBS (Set of 2)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB50-1.jpg?v=1621636428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made from Natural Rubber<br>● 10 to 140 LBS Tensity<br>● Reusable Velcro Strap<br>● Light to High Intensity<br>● Available in Singles &amp; Sets<br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. NZG uses an exclusive manufacturing method to provide 100% latex-free natural rubber bands derived from tree sap. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! Available to order individually or in pairs.<br><br><strong>Care</strong>: Clean with a damp towel and air dry.<br><br><strong>Materials</strong>: Latex Free Rubber<br><br><strong>Length</strong>: 41-inches<br><br><strong>Thickness</strong>: 0.16-inches<br><br><strong>Width</strong>: 1.13"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582633201718</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>NZ-RB50*2</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582631530550</id>
+    <published>2021-05-04T12:28:44-07:00</published>
+    <updated>2021-05-04T12:28:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/natural-rubberpower-resistance-band-20-lbs-set-of-2-red"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Light-Intensity Red 20 LBS (Set of 2)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB20-1_d52cfcbe-4908-493e-a133-3d60a1bc2cde.jpg?v=1621636231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made from Natural Rubber<br>● 10 to 140 LBS Tensity<br>● Reusable Velcro Strap<br>● Light to High Intensity<br>● Available in Singles &amp; Sets<br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. NZG uses an exclusive manufacturing method to provide 100% latex-free natural rubber bands derived from tree sap. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! Available to order individually or in pairs.<br><br><strong>Care</strong>: Clean with a damp towel and air dry.<br><br><strong>Materials</strong>: Latex Free Rubber<br><br><strong>Length</strong>: 41-inches<br><br><strong>Thickness</strong>: 0.16-inches<br><br><strong>Width</strong>: 0.5"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582631530550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>NZ-RB20*2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582633889846</id>
+    <published>2021-05-04T12:28:25-07:00</published>
+    <updated>2021-05-04T12:28:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/natural-rubberpower-resistance-band-85-lbs-single-black"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Band Medium-High Intensity Black 85 LBS (Single)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB85-1_6a782622-dbee-485e-9170-b9b15f3e2e2a.jpg?v=1620159001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made from Natural Rubber<br>● 10 to 140 LBS Tensity<br>● Reusable Velcro Strap<br>● Light to High Intensity<br>● Available in Singles &amp; Sets<br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. NZG uses an exclusive manufacturing method to provide 100% latex-free natural rubber bands derived from tree sap. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! Available to order individually or in pairs.<br><br><strong>Care</strong>: Clean with a damp towel and air dry.<br><br><strong>Materials</strong>: Latex Free Rubber<br><br><strong>Length</strong>: 41-inches<br><br><strong>Thickness</strong>: 0.16-inches<br><br><strong>Width</strong>: 1.75"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582633889846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NZ-RB85</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582634348598</id>
+    <published>2021-05-04T12:28:07-07:00</published>
+    <updated>2021-05-04T12:28:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/natural-rubber-power-resistance-band-120-lbs-single-silver"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Band High-Intensity Silver 120 LBS (Single)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB120-1.jpg?v=1621629755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made from Natural Rubber<br>● 10 to 140 LBS Tensity<br>● Reusable Velcro Strap<br>● Light to High Intensity<br>● Available in Singles &amp; Sets<br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. NZG uses an exclusive manufacturing method to provide 100% latex-free natural rubber bands derived from tree sap. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! Available to order individually or in pairs.<br><br><strong>Care</strong>: Clean with a damp towel and air dry.<br><br><strong>Materials</strong>: Latex Free Rubber<br><br><strong>Length</strong>: 41-inches<br><br><strong>Thickness</strong>: 0.16-inches<br><br><strong>Width</strong>: Silver 2.5"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582634348598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>NZ-RB120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582639460406</id>
+    <published>2021-05-04T12:27:45-07:00</published>
+    <updated>2021-05-04T12:27:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/100-latex-free-natural-rubber-power-resistance-band-5-piece-warm-up-set"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Warm-Up Set (5-Piece)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB-Warm-up-set-1_47763614-c073-4c0c-b431-e1bfc66d402c.jpg?v=1621638488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made with Natural Rubber <br>● 5 Resistance Bands <br>● 35 to 85 LBS Tensity <br>● Reusable Velcro Strap<br>● Medium to High Intensity <br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. The Warm-Up 5-Piece Set includes (2) double 35 &amp; 50 LBS bands and a (1) single 85 LBS band. NZG uses an exclusive manufacturing process to provide 100% latex-free natural rubber bands derived from Para Rubber trees. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! <br><br><strong>Care</strong>: Clean with a damp towel and air dry. <br><strong>Materials</strong>: 100% Natural Rubber <br><strong>Length</strong>: 41-inches <br><strong>Thickness</strong>: 0.16-inches <br><strong>Width</strong>: Green 0.75", Blue 1.13", Black 1.75"<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582639460406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>NZ-RB-5PK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582911598646</id>
+    <published>2021-05-04T12:27:35-07:00</published>
+    <updated>2021-05-04T12:27:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/100-latex-free-natural-rubber-power-resistance-band-3-piece-pull-up-set"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Pull-Up Set (3-Piece)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB-Pull-up-set-1.jpg?v=1628096010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br data-mce-fragment="1">● Made with Natural Rubber <br data-mce-fragment="1">● 3 Resistance Bands <br data-mce-fragment="1">● 85 to 140 LBS Tensity <br data-mce-fragment="1">● Reusable Velcro Strap<br data-mce-fragment="1">● High Intensity <br data-mce-fragment="1"><br data-mce-fragment="1">Power Resistance Bands use high strength and rapid rebound to intensify your workouts. The Pull-Up 3-Piece Set includes 85, 120 &amp; 140 LBS single (1) bands. NZG uses an exclusive manufacturing process to provide 100% latex-free natural rubber bands derived from Para Rubber trees. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! <br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Care</strong>: Clean with a damp towel and air dry. <br data-mce-fragment="1"><strong>Materials</strong>: 100% Natural Rubber <br data-mce-fragment="1"><strong>Length</strong>: 41-inches <br data-mce-fragment="1"><strong>Thickness</strong>: 0.16-inches <br data-mce-fragment="1"><strong>Width</strong>: Black 1.75", Silver 2.5", Gold 3". <br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582911598646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>NZ-RB-3PK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582630350902</id>
+    <published>2021-05-04T12:27:26-07:00</published>
+    <updated>2021-05-04T12:27:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/natural-rubber-power-resistance-band-10-lbs-set-of-2-yellow"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Light-Intensity Yellow 10 LBS (Set of 2)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB10-1_183ef56d-92d6-48f3-81ef-a3cd33c3abcf.jpg?v=1621636647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made from Natural Rubber<br>● 10 to 140 LBS Tensity<br>● Reusable Velcro Strap<br>● Light to High Intensity<br>● Available in Singles &amp; Sets<br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. NZG uses an exclusive manufacturing method to provide 100% latex-free natural rubber bands derived from tree sap. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! Available to order individually or in pairs.<br><br><strong>Care</strong>: Clean with a damp towel and air dry.<br><br><strong>Materials</strong>: Latex Free Rubber<br><br><strong>Length</strong>: 41-inches<br><br><strong>Thickness</strong>: 0.16-inches<br><br><strong>Width</strong>: 0.25"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582630350902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>NZ-RB10*2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6582911270966</id>
+    <published>2021-05-04T12:27:13-07:00</published>
+    <updated>2021-05-04T12:27:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/100-latex-free-natural-rubber-power-resistance-band-6-piece-light-warm-up-set"/>
+    <title>100% Latex-Free Natural Rubber Power Resistance Bands Light Warm-Up Set (6-Piece)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-RB-Light-warm-up-set-1_09c19b06-29ed-40f0-b65e-d00f8b292309.jpg?v=1621629936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● 100% Latex-Free<br>● Made with Natural Rubber <br>● 6 Resistance Bands <br>● 10 to 35 LBS Tensity <br>● Reusable Velcro Strap<br>● Light to Medium Intensity <br><br>Power Resistance Bands use high strength and rapid rebound to intensify your workouts. The Light Warm-Up 6-Piece Set includes (2) double 10, 20 &amp; 35 LBS bands. NZG uses an exclusive manufacturing process to provide 100% latex-free natural rubber bands derived from Para Rubber trees. The tensile resistance is broken down into seven color-coded levels varying in weight and width. Get a versatile workout range with this easy-to-use fitness accessory that targets your back, arms, glutes and legs. A compact and portable design ideal for tossing in your gym bag or as part of your home-gym setup! <br><br><strong>Care</strong>: Clean with a damp towel and air dry. <br><strong>Materials</strong>: 100% Natural Rubber <br><strong>Length</strong>: 41-inches <br><strong>Thickness</strong>: 0.16-inches <br><strong>Width</strong>: Yellow 0.25", Red 0.5", Green 0.75"<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Band</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6582911270966</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-RB-6PK</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4904560295990</id>
+    <published>2021-01-19T12:51:47-08:00</published>
+    <updated>2021-01-19T12:51:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/power-dyne-adjustable-dumbbell-set"/>
+    <title>PowerDyne Adjustable 80lbs Dumbbell (Pair)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NNEBHH_C.jpg?v=1611189939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            594.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● Free Standard Shipping!<br data-mce-fragment="1">● Lift Up to 160lbs (80lbs each)<br data-mce-fragment="1">● 20 Iron Weight Plates <br data-mce-fragment="1">● Compact Design No-Slip Grip <br data-mce-fragment="1">● No-Slip Grip <br data-mce-fragment="1">● Shipped in 4 Packages <br data-mce-fragment="1"><br data-mce-fragment="1">The PowerDyne Adjustable Dumbbell Set includes 2 dumbbells: the essential heavy-duty weight equipment to sculpt and tone muscles throughout the body. Increase your strength with 2 sets of 10 adjustable iron weight plates that increment from 5lbs up to 80lbs each. Securely lift a total of 160lbs with no-slip grip handles. To increase the dumbbell weight, unlock, adjust the pin boxes, align to the desired weight, then secure back into place. The compact design features 2 sturdy and secure 18x9x9inch storage trays. <br data-mce-fragment="1"><br data-mce-fragment="1">Weight Increments: 5, 10, 14, 18, 23, 28, 32, 36, 40, 44, 48, 53, 58, 60, 65, 70, 75 to 80 lbs. <br data-mce-fragment="1">Materials: Iron, Aluminum, Glass Fiber Filled Nylon, Polycarbonate &amp; Acrylonitrile Butadiene Styrene Plastic. <br data-mce-fragment="1">Care: Avoid moisture and use in a dry environment. <br data-mce-fragment="1">Shipping: The product will ship in 4 separate packages. <br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4904560295990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">594.95</s:price>
+      <s:sku>NZ-DB-PD80*2</s:sku>
+      <s:grams>78018</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4904559935542</id>
+    <published>2021-01-19T12:51:27-08:00</published>
+    <updated>2021-01-19T12:51:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/power-dyne-adjustable-dumbbell"/>
+    <title>PowerDyne Adjustable 80lbs Dumbbell (Single)</title>
+    <s:type>Training Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-DB-PD-1_28a8e407-b226-4dca-b73a-ad1508370542.jpg?v=1611189802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Training Equipment<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● Free Standard Shipping!<br>● Lift Up to 80lbs <br>● No-Slip Grip <br>● Compact Design <br>● 10 Iron Weight Plates <br>● Shipped in 2 Packages <br><br>The PowerDyne Adjustable Dumbbell is the essential heavy-duty weight equipment for your at-home gym. Increase your strength with 10 adjustable iron weight plates that increment from 5lbs up to 80lbs. Securely lift weights with no-slip grip handles. To increase the dumbbell weight, unlock, adjust the pin boxes, align to the desired weight, and secure back into place. The compact design measures 17.7 x 8.86 x 9-inches in a sturdy and secure storage tray with lifting handles. Weight training will tone and sculpt muscles throughout the body while increasing strength and stamina. <br><br><br>Weight Increments: 5, 10, 14, 18, 23, 28, 32, 36, 40, 44, 48, 53, 58, 60, 65, 70, 75 to 80 lbs. <br>Materials: Iron, Aluminum, Glass Fiber Filled Nylon, Polycarbonate &amp; Acrylonitrile Butadiene Styrene Plastic. <br>Care: Avoid moisture and use in a dry environment. <br>Shipping: The product will ship in 2 separate packages. <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4904559935542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>NZ-DB-PD80</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+</feed>

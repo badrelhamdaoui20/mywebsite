@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/mens-tank-tops.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2021-06-29T16:21:40-07:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602131800118</id>
+    <published>2021-06-29T16:21:40-07:00</published>
+    <updated>2021-06-29T16:21:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-zintex-training-tank-concrete"/>
+    <title>Men’s ZinTex Training Tank (Concrete)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z84-GR-1.jpg?v=1625006002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Antimicrobial Zinc Oxide Treatment</li>
+<li>Form Fitting Cut</li>
+<li>4-Way Ultra Stretch</li>
+<li>Sweat-Wicking</li>
+<li>Odor-Repellent</li>
+<li>UV 50+ Protection</li>
+</ul>
+<p>Super stretchy &amp; silky soft, the Zintex Training Tank is the sleek addition to your activewear fits. Stay fresh no matter the workout intensity with an odor-blocking and sanitizing Zinc Oxide fabric treatment with added UV protection. The lightweight, breathable design features a regular fit and full-length cut with a reflective logo print.</p>
+<p><strong>Materials: </strong>88% Polyester + 12% Spandex</p>
+<p><strong>Model Height:</strong> 6'2" <strong>Size:</strong> Medium</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z84-Chart_20all_20colors.jpg?v=1624987653"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602131800118</id>
+      <title>Small / Concrete</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-GR-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602131800118</id>
+      <title>Medium / Concrete</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-GR-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602131800118</id>
+      <title>Large / Concrete</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-GR-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602131800118</id>
+      <title>X-Large / Concrete</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-GR-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602131800118</id>
+      <title>2X-Large / Concrete</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-GR-2XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602060300342</id>
+    <published>2021-06-29T16:21:29-07:00</published>
+    <updated>2021-06-29T16:21:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-zintex-training-tank-coal"/>
+    <title>Men’s ZinTex Training Tank (Coal)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z84-BK-1.jpg?v=1625005836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Antimicrobial Zinc Oxide Treatment</li>
+<li>Form Fitting Cut</li>
+<li>4-Way Ultra Stretch</li>
+<li>Sweat-Wicking</li>
+<li>Odor-Repellent</li>
+<li>UV 50+ Protection</li>
+</ul>
+<p>Super stretchy &amp; silky soft, the Zintex Training Tank is the sleek addition to your activewear fits. Stay fresh no matter the workout intensity with an odor-blocking and sanitizing Zinc Oxide fabric treatment with added UV protection. The lightweight, breathable design features a regular fit and full-length cut with a reflective logo print.</p>
+<p><strong>Materials: </strong>88% Polyester + 12% Spandex</p>
+<p><strong>Model Height:</strong> 6'1" <strong>Size:</strong> Medium</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z84-Chart_20all_20colors.jpg?v=1624987653"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602060300342</id>
+      <title>Small / Coal</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-BK-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602060300342</id>
+      <title>Medium / Coal</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-BK-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602060300342</id>
+      <title>Large / Coal</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-BK-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602060300342</id>
+      <title>X-Large / Coal</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-BK-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602060300342</id>
+      <title>2X-Large / Coal</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>NZ-Z84-BK-2XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

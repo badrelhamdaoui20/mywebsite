@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/seatex.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2021-02-10T14:10:50-08:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4913617567798</id>
+    <published>2021-02-10T14:10:50-08:00</published>
+    <updated>2021-02-10T14:10:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/seatex-eco-performance-mask-stripe"/>
+    <title>SeaTex Eco Polygiene Performance Mask (Stripes)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Mask-SE-ST-1.jpg?v=1615339163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Antibacterial Treatment </li>
+<li>Sustainable SeaWool </li>
+<li>Odor-Block &amp; Quick Dry</li>
+<li>Heat Retention</li>
+<li>UV 50+ </li>
+</ul>
+<p>The SeaTex Eco Performance Mask offers maximum protection with sustainable production. Made with 2 layers of SeaWool, 100% recycled PET water bottles and oyster shells, spun into Polyester. SeaWool is anti-static and offers UV+ 50 with a superior warmth-to-weight ratio. The layers are treated with Polygiene®, an eco-friendly antibacterial finish using Silver Salt (Silver Chloride) to prevent the growth of odor-causing microbes. Train at ease with the lightweight design, pliable nose guard, adjustable straps and Polygiene® storage bag.</p>
+<p><strong>Care: </strong>Machine wash cold and air dry. </p>
+<p><strong>Materials: </strong>100% Recycled Polyester with an Antibacterial Polygiene® Treatment. </p>
+<p><strong>Size: </strong>Regular: (6.5" Length, 9” Width) &amp; Small: (5.75" Length, 8.25" Width)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4913617567798</id>
+      <title>Small</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>NZ-Mask-SE-ST-S</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4913617567798</id>
+      <title>Regular</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>NZ-Mask-SE-ST</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4913617043510</id>
+    <published>2021-02-10T14:08:38-08:00</published>
+    <updated>2021-02-10T14:08:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/seatex-eco-performance-mask-black"/>
+    <title>SeaTex Eco Polygiene Performance Mask (Black)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Mask-SE-BK-1-1.jpg?v=1615339054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Antibacterial Treatment </li>
+<li>Sustainable SeaWool </li>
+<li>Odor-Block &amp; Quick Dry</li>
+<li>Heat Retention</li>
+<li>UV 50+ </li>
+</ul>
+<p>The SeaTex Eco Performance Mask offers maximum protection with sustainable production. Made with 2 layers of SeaWool, 100% recycled PET water bottles and oyster shells, spun into Polyester. SeaWool is anti-static and offers UV+ 50 with a superior warmth-to-weight ratio. The layers are treated with Polygiene®, an eco-friendly antibacterial finish using Silver Salt (Silver Chloride) to prevent the growth of odor-causing microbes. Train at ease with the lightweight design, pliable nose guard, adjustable straps and Polygiene® storage bag.</p>
+<p><strong>Care: </strong>Machine wash cold and air dry. </p>
+<p><strong>Materials: </strong>100% Recycled Polyester with an Antibacterial Polygiene® Treatment. </p>
+<p><strong>Size: </strong>Regular: (6.5" Length, 9” Width) &amp; Small: (5.75" Length, 8.25" Width)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4913617043510</id>
+      <title>Small</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>NZ-Mask-SE-BK-S</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4913617043510</id>
+      <title>Regular</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>NZ-Mask-SE-BK</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

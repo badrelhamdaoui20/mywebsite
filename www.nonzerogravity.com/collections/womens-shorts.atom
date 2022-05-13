@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/womens-shorts.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2021-06-29T16:27:39-07:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602126590006</id>
+    <published>2021-06-29T16:27:39-07:00</published>
+    <updated>2021-06-29T16:27:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/womens-zintex-eco-high-rise-running-shorts-berry"/>
+    <title>Women’s ZinTex Eco High-Waist 4&quot; Running Shorts (Berry)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z72-M-1_f695a7d2-553e-4800-b086-03ea47656df1.jpg?v=1625003622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Antimicrobial Zinc Oxide</li>
+<li data-mce-fragment="1">High-Rise Fit </li>
+<li data-mce-fragment="1">Side Pockets</li>
+<li data-mce-fragment="1">Lightweight Lining </li>
+<li data-mce-fragment="1">Sweat-Wicking</li>
+<li data-mce-fragment="1">Odor-Repellent</li>
+</ul>
+<p data-mce-fragment="1">Get ready to take on high-impact workouts in the Zintex High-Rise Eco Running Shorts. Flexible and supportive, these high-rise shorts feature a comfortable outer layer, two pockets and a skin-tight internal lining. The Zinc Oxide antimicrobial fabric treatment sanitizes, provides UV protection against harmful sun rays and blocks odor-causing microbes, keeping you fresh all workout long. Sustainably made using recycled plain weave fabric—all in a silky smooth, breathable design with a reflective logo print.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong></p>
+<p data-mce-fragment="1">Outer: 86% Recycled Polyester + 14% Spandex</p>
+<p data-mce-fragment="1">Lining: 88% Recycled Polyester + 12% Spandex</p>
+<p data-mce-fragment="1"><strong>Model Height:</strong> 5'2" <strong>Size:</strong> Extra-Small</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z72-Chart-all-colors.jpg?v=1636475748"></p>
+<p> </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Women</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602126590006</id>
+      <title>X-Small / Berry</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-M-XS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602126590006</id>
+      <title>Small / Berry</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-M-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602126590006</id>
+      <title>Medium / Berry</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-M-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602126590006</id>
+      <title>Large / Berry</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-M-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602126590006</id>
+      <title>X-Large / Berry</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-M-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602125934646</id>
+    <published>2021-06-29T16:27:38-07:00</published>
+    <updated>2021-06-29T16:27:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/womens-zintex-low-rise-training-shorts-with-lining-berry"/>
+    <title>Women’s ZinTex Eco Low-Rise 3&quot; Training Shorts with Lining (Berry)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z70-M-1_9e10cc6d-d5ad-4884-8e0c-41707093e02f.jpg?v=1625264152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Antimicrobial Zinc Oxide</li>
+<li data-mce-fragment="1">Low-Rise Fit</li>
+<li data-mce-fragment="1">Back Zipper Pocket</li>
+<li data-mce-fragment="1">Brief Lining</li>
+<li data-mce-fragment="1">Sweat-Wicking</li>
+<li data-mce-fragment="1">Odor-Repellent</li>
+</ul>
+<p data-mce-fragment="1">Show up to yoga class or any low-impact workout in the ZinTex Training Shorts. Snug and flattering, these low-rise shorts feature a brief lining for added support and comfort. The Zinc Oxide antimicrobial fabric treatment sanitizes, provides UV protection against harmful sun rays and blocks odor-causing microbes, keeping you fresh all workout long. Stick your keys or hold onto your cards in the perfectly sized zipper back pocket. Sustainably made using recycled plain weave fabric—all in a silky smooth, breathable design with a reflective logo print.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong></p>
+<p data-mce-fragment="1">Outer: 86% Recycled Polyester + 14% Spandex</p>
+<p data-mce-fragment="1">Lining: 88% Recycled Polyester + 12% Spandex</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Model Height:</strong> 5'2" <strong data-mce-fragment="1">Size:</strong> Small</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z74-Chart_20all_20colors_df06a3b2-692c-4009-bdd9-3708159175ac.jpg?v=1636475814"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Women</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602125934646</id>
+      <title>X-Small / Berry</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-M-XS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602125934646</id>
+      <title>Small / Berry</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-M-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602125934646</id>
+      <title>Medium / Berry</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-M-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602125934646</id>
+      <title>Large / Berry</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-M-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602125934646</id>
+      <title>X-Large / Berry</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-M-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602049454134</id>
+    <published>2021-06-29T16:27:35-07:00</published>
+    <updated>2021-06-29T16:27:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/womens-zintex-eco-high-rise-running-shorts-coal"/>
+    <title>Women’s ZinTex Eco High-Waist 4&quot; Running Shorts (Coal)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z72-BK-1.jpg?v=1625003658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Antimicrobial Zinc Oxide</li>
+<li data-mce-fragment="1">High-Rise Fit </li>
+<li data-mce-fragment="1">Side Pockets</li>
+<li data-mce-fragment="1">Lightweight Lining </li>
+<li data-mce-fragment="1">Sweat-Wicking</li>
+<li data-mce-fragment="1">Odor-Repellent</li>
+</ul>
+<p data-mce-fragment="1">Get ready to take on high-impact workouts in the Zintex High-Rise Eco Running Shorts. Flexible and supportive, these high-rise shorts feature a comfortable outer layer, two pockets and a skin-tight internal lining. The Zinc Oxide antimicrobial fabric treatment sanitizes, provides UV protection against harmful sun rays and blocks odor-causing microbes, keeping you fresh all workout long. Sustainably made using recycled plain weave fabric—all in a silky smooth, breathable design with a reflective logo print.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong></p>
+<p data-mce-fragment="1">Outer: 86% Recycled Polyester + 14% Spandex</p>
+<p data-mce-fragment="1">Lining: 88% Recycled Polyester + 12% Spandex</p>
+<p data-mce-fragment="1"><strong>Model Height:</strong> 5'7" <strong>Size:</strong> Small <span> </span><br></p>
+<p> <img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z72-Chart-all-colors_eb74f3e3-cbac-4eda-ba08-50a109f3e6f6.jpg?v=1636475771" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z72-Chart-all-colors_eb74f3e3-cbac-4eda-ba08-50a109f3e6f6.jpg?v=1636475771"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Women</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602049454134</id>
+      <title>X-Small / Coal</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-BK-XS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602049454134</id>
+      <title>Small / Coal</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-BK-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602049454134</id>
+      <title>Medium / Coal</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-BK-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602049454134</id>
+      <title>Large / Coal</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-BK-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602049454134</id>
+      <title>X-Large / Coal</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-Z72-BK-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602047815734</id>
+    <published>2021-06-29T16:27:34-07:00</published>
+    <updated>2021-06-29T16:27:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/womens-zintex-low-rise-training-shorts-with-lining-coal"/>
+    <title>Women’s ZinTex Eco Low-Rise 3&quot; Training Shorts with Lining (Coal)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z70-BK-1.jpg?v=1625003263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Antimicrobial Zinc Oxide</li>
+<li data-mce-fragment="1">Low-Rise Fit</li>
+<li data-mce-fragment="1">Back Zipper Pocket</li>
+<li data-mce-fragment="1">Brief Lining</li>
+<li data-mce-fragment="1">Sweat-Wicking</li>
+<li data-mce-fragment="1">Odor-Repellent</li>
+</ul>
+<p data-mce-fragment="1">Show up to yoga class or any low-impact workout in the ZinTex Training Shorts. Snug and flattering, these low-rise shorts feature a brief lining for added support and comfort. The Zinc Oxide antimicrobial fabric treatment sanitizes, provides UV protection against harmful sun rays and blocks odor-causing microbes, keeping you fresh all workout long. Stick your keys or hold onto your cards in the perfectly sized zipper back pocket. Sustainably made using recycled plain weave fabric—all in a silky smooth, breathable design with a reflective logo print.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong></p>
+<p data-mce-fragment="1">Outer: 86% Recycled Polyester + 14% Spandex</p>
+<p data-mce-fragment="1">Lining: 88% Recycled Polyester + 12% Spandex</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Model Height:</strong> 5'2" <strong data-mce-fragment="1">Size:</strong> Small</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z74-Chart_20all_20colors_bbac478c-ba9d-4495-b778-8e4c4d8b88d9.jpg?v=1636475824"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Women</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602047815734</id>
+      <title>X-Small / Coal</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-BK-XS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602047815734</id>
+      <title>Small / Coal</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-BK-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602047815734</id>
+      <title>Medium / Coal</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-BK-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602047815734</id>
+      <title>Large / Coal</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-BK-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602047815734</id>
+      <title>X-Large / Coal</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NZ-Z70-BK-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

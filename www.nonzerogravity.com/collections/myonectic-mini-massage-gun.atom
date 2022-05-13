@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/myonectic-mini-massage-gun.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2021-01-14T14:23:41-08:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4902788431926</id>
+    <published>2021-01-14T14:23:41-08:00</published>
+    <updated>2021-01-14T14:23:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/myonetic-percussive-massage-gun-and-storage-case"/>
+    <title>MyoNetic Mini Massage Gun</title>
+    <s:type>Recovery Equipment</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-MG-MN-1.jpg?v=1619022773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Recovery Equipment<br>
+        <strong>Price: </strong>
+            34.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Compact Size</li>
+<li>6hr Battery Life</li>
+<li>4 Targeted Massage Heads</li>
+<li>Gear Speed up to 3200ppm</li>
+<li>Minimal Noise Emission</li>
+<li>Custom Travel Case</li>
+</ul>
+<p>The MyoNetic Massage Gun with is a health, relaxation and rehabilitation device with four targeted multi-position adjustments: muscles, spine, joints &amp; tendons. Percussive therapy can effectively reduce soreness caused by lactic acid accumulation after vigorous exercise and help relieve muscle discomfort. The ergonomic design, battery longevity and powerful motor with minimal noise emission are ideal for on the go. Carry or safely store all MyonEtic parts in a sleek, clamshell hard case (7.5x3.1x7.5 inches) made with durable EVA and a custom foam inlay. Includes the massage gun body (3.6 x 6 x 1.8 inches/12 oz), 4 replaceable heads, USB charging cable and custom storage case.</p>
+<p>Care: Clean with a slightly damp towel, then dry with a soft cloth.</p>
+<p>Warning: Keep away from heat sources or liquids.</p>
+<p>Note: The Battery must remain above 5% charge at all times.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4902788431926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.85</s:price>
+      <s:sku>NZ-MG-MN*NZ-MG-MN-Case</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/mens-shorts.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2021-06-29T16:22:37-07:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602128883766</id>
+    <published>2021-06-29T16:22:37-07:00</published>
+    <updated>2021-06-29T16:22:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-zintex-eco-running-shorts-concrete"/>
+    <title>Men’s ZinTex Eco 7&quot; Running Shorts (Concrete)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z80-GR-1_e228233b-df13-4c02-bbfb-5c4f65abd236.jpg?v=1625004524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Antimicrobial Zinc Oxide</li>
+<li data-mce-fragment="1">7" Inseam </li>
+<li data-mce-fragment="1">Zipper Pockets</li>
+<li data-mce-fragment="1">Sweat-Wicking</li>
+<li data-mce-fragment="1">Odor-Repellent</li>
+<li data-mce-fragment="1">Towel Strap</li>
+</ul>
+<p data-mce-fragment="1">Get ready to take on high-impact workouts in the Zintex Eco Running Shorts. Lightweight and comfortable, these classic-fit shorts feature two pockets and a towel strap. The Zinc Oxide antimicrobial Fabric treatment sanitizes, provides UV protection against harmful sun rays, and blocks odor-causing microbes, keeping you fresh all workout long. Sustainably made using recycled plain weave fabric—all in a silky smooth, breathable design with a reflective logo print.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong>86% Recycled Polyester + 14% Spandex</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Model Height:</strong> 6'2" <strong data-mce-fragment="1">Size:</strong> Medium</p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z80-Chart-all-colors_7a096a26-3599-4b2d-becf-3d3a0598b49f.jpg?v=1636475653"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602128883766</id>
+      <title>Small / Concrete</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-GR-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602128883766</id>
+      <title>Medium / Concrete</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-GR-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602128883766</id>
+      <title>Large / Concrete</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-GR-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602128883766</id>
+      <title>X-Large / Concrete</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-GR-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602128883766</id>
+      <title>2X-Large / Concrete</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-GR-2XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602057383990</id>
+    <published>2021-06-29T16:22:36-07:00</published>
+    <updated>2021-06-29T16:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-zintex-eco-running-shorts-coal"/>
+    <title>Men’s ZinTex Eco 7&quot; Running Shorts (Coal)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z80-BK-1.jpg?v=1625004485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Antimicrobial Zinc Oxide</li>
+<li data-mce-fragment="1">7" Inseam </li>
+<li data-mce-fragment="1">Zipper Pockets</li>
+<li data-mce-fragment="1">Sweat-Wicking</li>
+<li data-mce-fragment="1">Odor-Repellent</li>
+<li data-mce-fragment="1">Towel Strap</li>
+</ul>
+<p data-mce-fragment="1">Get ready to take on high-impact workouts in the Zintex Eco Running Shorts. Lightweight and comfortable, these classic-fit shorts feature two pockets and a towel strap. The Zinc Oxide antimicrobial Fabric treatment sanitizes, provides UV protection against harmful sun rays, and blocks odor-causing microbes, keeping you fresh all workout long. Sustainably made using recycled plain weave fabric—all in a silky smooth, breathable design with a reflective logo print.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong>86% Recycled Polyester + 14% Spandex</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Model Height:</strong> 6'2" <strong data-mce-fragment="1">Size:</strong> Medium</p>
+<p data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z80-Chart-all-colors.jpg?v=1636475615"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602057383990</id>
+      <title>Small / Coal</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-BK-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602057383990</id>
+      <title>Medium / Coal</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-BK-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602057383990</id>
+      <title>Large / Coal</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-BK-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602057383990</id>
+      <title>X-Large / Coal</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-BK-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602057383990</id>
+      <title>2X-Large / Coal</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>NZ-Z80-BK-2XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602129244214</id>
+    <published>2021-06-29T16:22:27-07:00</published>
+    <updated>2021-06-29T16:22:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-zintex-eco-running-shorts-with-lining-concrete"/>
+    <title>Men’s ZinTex Eco 7&quot; Running Shorts with Lining (Concrete)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z82-GR-1_5b59d579-9d95-4929-b72d-5f34b1f00a34.jpg?v=1625079693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Antimicrobial Zinc Oxide</li>
+<li data-mce-fragment="1">7" Inseam</li>
+<li data-mce-fragment="1">Lightweight Brief Lining</li>
+<li data-mce-fragment="1">Sweat-Wicking</li>
+<li data-mce-fragment="1">Odor-Repellent </li>
+<li data-mce-fragment="1">Towel Strap</li>
+</ul>
+<p data-mce-fragment="1">Get ready to take on high-impact workouts in the Zintex Eco Running Shorts with Lining. Lightweight and comfortable, these classic-fit shorts feature a brief lining, towel strap and two pockets to keep everything in place. The Zinc Oxide antimicrobial Fabric treatment sanitizes, provides UV protection against harmful sun rays, and blocks odor-causing microbes, keeping you fresh all workout long. Sustainably made using recycled plain weave fabric—all in a silky smooth, breathable design with a reflective logo print.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong></p>
+<p data-mce-fragment="1">Outer: 86% Recycled Polyester + 14% Spandex</p>
+<p data-mce-fragment="1">Lining: 88% Polyester + 12% Spandex</p>
+<p><strong>Model Height: </strong>6'2"<strong> Size: </strong>Medium</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z82-Chart-all-colors_1febf308-15c5-42f5-ad3f-f662da32c7fd.jpg?v=1636475704"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602129244214</id>
+      <title>Small / Concrete</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-GR-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602129244214</id>
+      <title>Medium / Concrete</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-GR-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602129244214</id>
+      <title>Large / Concrete</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-GR-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602129244214</id>
+      <title>X-Large / Concrete</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-GR-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602129244214</id>
+      <title>2X-Large / Concrete</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-GR-2XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602058563638</id>
+    <published>2021-06-29T16:22:26-07:00</published>
+    <updated>2021-06-29T16:22:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/mens-zintex-eco-running-shorts-with-lining-coal"/>
+    <title>Men’s ZinTex Eco 7&quot; Running Shorts with Lining (Coal)</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Z82-BK-1.jpg?v=1625004939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Antimicrobial Zinc Oxide</li>
+<li data-mce-fragment="1">7" Inseam</li>
+<li data-mce-fragment="1">Lightweight Brief Lining</li>
+<li data-mce-fragment="1">Sweat-Wicking</li>
+<li data-mce-fragment="1">Odor-Repellent </li>
+<li data-mce-fragment="1">Towel Strap</li>
+</ul>
+<p data-mce-fragment="1">Get ready to take on high-impact workouts in the Zintex Eco Running Shorts with Lining. Lightweight and comfortable, these classic-fit shorts feature a brief lining, towel strap and two pockets to keep everything in place. The Zinc Oxide antimicrobial Fabric treatment sanitizes, provides UV protection against harmful sun rays, and blocks odor-causing microbes, keeping you fresh all workout long. Sustainably made using recycled plain weave fabric—all in a silky smooth, breathable design with a reflective logo print.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong></p>
+<p data-mce-fragment="1">Outer: 86% Recycled Polyester + 14% Spandex</p>
+<p data-mce-fragment="1">Lining: 88% Polyester + 12% Spandex</p>
+<p><strong>Model Height: </strong>6'2"<strong> Size: </strong>Medium</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-Z82-Chart-all-colors.jpg?v=1636475684"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_ZinTex</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602058563638</id>
+      <title>Small / Coal</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-BK-S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602058563638</id>
+      <title>Medium / Coal</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-BK-M</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602058563638</id>
+      <title>Large / Coal</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-BK-L</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602058563638</id>
+      <title>X-Large / Coal</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-BK-XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602058563638</id>
+      <title>2X-Large / Coal</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>NZ-Z82-BK-2XL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/2223114289209</id>
+    <published>2020-04-28T17:02:41-07:00</published>
+    <updated>2020-04-28T17:02:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/nonzero-gravity-magma-men-s-thermo-slimming-workout-exercise-shorts"/>
+    <title>Magma Men’s Sauna Shorts</title>
+    <s:type>Sauna Suits</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-M73-T-1.jpg?v=1561052491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Sauna Suits<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>
+<div>
+<div>
+<div>
+<ul>
+<li>Boosts weight loss, flexibility + muscle performance</li>
+<li>Flat-lock stitching prevents chafing</li>
+<li>Mesh crotch</li>
+<li>Discreet zipper pocket</li>
+<li>Reflective detailing for safety</li>
+</ul>
+</div>
+<div>
+<p>The Magma sauna shorts for men bring high performance to a sleek, stylish pair of workout shorts. Constructed of heat-retaining neoprene, these thermal pants target your glutes, quads and lower abdomen to help you burn fat and cut weight quickly. With a discreet zipper pocket, interior drawstring waistband and smooth, anti-chafing seams, the Magma Men’s Sauna Shorts boost your workout no matter what your sweat style is.</p>
+<p>Materials: 100% Neoprene</p>
+<p>Care: Hand wash in cold water. Lay flat to dry out of direct sunlight. Do not dry clean, iron or tumble dry.</p>
+</div>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+<p style="text-align: center;"><img src="//cdn.shopify.com/s/files/1/2589/3384/files/NZG-Mens-NZ-M73-Shorts_39b8a799-bea6-4c31-800f-90cfa71c9b2a.jpg?v=1532039125" alt="NZG Magma Men’s Workout Shorts with Neoprene Panels"> </p>
+<div class="celwidget aplus-module module-11" cel_widget_id="aplus-module-11">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="360" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" style="max-height: 360px; _height: 360px;">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-spacing apm-floatnone">
+<div class="apm-sidemodule aplus-module-content">
+<div class="apm-sidemodule-imageleft apm-hero-image"></div>
+<div class="apm-sidemodule-imageleft apm-hero-image"></div>
+<div class="apm-sidemodule-imageleft apm-hero-image"></div>
+<div class="apm-sidemodule-imageleft apm-hero-image"></div>
+<div class="apm-sidemodule-imageleft apm-hero-image"></div>
+<div class="apm-sidemodule-imageleft apm-hero-image"></div>
+<div class="apm-sidemodule-imageleft apm-hero-image"></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>BFCM</s:tag>
+    <s:tag>Collection_Sauna Suit</s:tag>
+    <s:tag>Filter For..._Men</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-BK-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-BK-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Black / X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-BK-XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Black / 2X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-BK-2XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Black / 3X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-BK-3XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Black / 4X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-BK-4XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Black / 5X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-BK-5XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-B-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Blue / Medium</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-B-M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-B-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Blue / X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-B-XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Blue / 2X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-B-2XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Blue / 3X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-B-3XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Blue / 4X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-B-4XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/2223114289209</id>
+      <title>Blue / 5X-Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NZ-M73-B-5XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

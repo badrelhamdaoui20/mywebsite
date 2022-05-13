@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/siltex.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2021-02-10T13:58:20-08:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4913615110198</id>
+    <published>2021-02-10T13:58:20-08:00</published>
+    <updated>2021-02-10T13:58:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/siltex-performance-mask-black-camo"/>
+    <title>SilTex Polygiene Performance Mask (Black Camo)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Mask-ST-BKCM-1-1.jpg?v=1615336515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>2-Ply Design </li>
+<li>Cooling Technology</li>
+<li>Antibacterial Odor-Block</li>
+<li>Quick Dry</li>
+<li>UV 50+ </li>
+</ul>
+<p>Maximize your comfort and protection with the antibacterial SilTex Performance Mask, constructed with 2 layers of fabric. The layers are treated with Polygiene®, a sustainable antibacterial finish using Silver Salt (Silver chloride) that prevents the growth of odor-causing microbes: bacteria, fungus and mildew. The inner layer, made with a 76% Nylon + 24% Polyester blend, provides a cool to the touch effect. Train at ease with the lightweight design, pliable nose guard, adjustable straps and Polygiene® storage bag. </p>
+<p><strong>Care:</strong> Machine wash cold and air dry.</p>
+<p><strong>Size: </strong>Available in two sizes: Regular: (6.5" Length, 9” Width) &amp; Small: (5.75" Length, 8.25" Width)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4913615110198</id>
+      <title>Small</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>NZ-Mask-ST-BKCM-S</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4913615110198</id>
+      <title>Regular</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>NZ-Mask-ST-BKCM</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4913615044662</id>
+    <published>2021-02-10T13:56:22-08:00</published>
+    <updated>2021-02-10T13:56:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/siltex-performance-mask-black"/>
+    <title>SilTex Polygiene Performance Mask (Black)</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-Mask-ST-BK-1.jpg?v=1615338950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>2-Ply Design </li>
+<li>Cooling Technology</li>
+<li>Antibacterial Odor-Block</li>
+<li>Quick Dry</li>
+<li>UV 50+ </li>
+</ul>
+<p>Maximize your comfort and protection with the antibacterial SilTex Performance Mask, constructed with 2 layers of fabric. The layers are treated with Polygiene®, a sustainable antibacterial finish using Silver Salt (Silver chloride) that prevents the growth of odor-causing microbes: bacteria, fungus and mildew. The inner layer, made with a 76% Nylon + 24% Polyester blend, provides a cool to the touch effect. Train at ease with the lightweight design, pliable nose guard, adjustable straps and Polygiene® storage bag. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4913615044662</id>
+      <title>Small</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>NZ-Mask-ST-BK-S</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4913615044662</id>
+      <title>Regular</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>NZ-Mask-ST-BK</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

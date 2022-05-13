@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/light-cardio.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2020-04-28T17:03:24-07:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4470270165046</id>
+    <published>2020-04-28T17:03:24-07:00</published>
+    <updated>2020-04-28T17:03:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/women-s-sauna-tank-top-shorts-combo-turquoise"/>
+    <title>Women’s Sauna Tank Top/Leggings Combo (Turquoise)</title>
+    <s:type>Sauna Suits</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/1-NZ-M78-T-4.jpg?v=1582587253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Sauna Suits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<span> </span><span>Increases oxygen consumption, which improves cardiovascular endurance</span>
+</li>
+<li>
+<span> </span><span>Raises internal temperature to increase flexibility</span>
+</li>
+<li>
+<span> </span><span>Reflective detailing for improved safety in low-light situations</span>
+</li>
+<li>
+<span> </span><span>Neoprene material with flat-lock stitching and mesh underarm design prevent skin irritation</span>
+</li>
+<li>
+<span> </span><span>Leggings have a high-waisted fit with a discreet zipper pocket</span>
+</li>
+<li>
+<span> </span><span>Tank top includes side zippers for convenient dressing </span>
+</li>
+</ul>
+<p><span>The Women’s Sauna Vest/Leggings combo provides our customers with two critical factors: clothing that works with — not against — your exercise routine and a style that distinguishes you from the crowd. Wearing sauna gear increases your body’s internal temperature, which improves cardiovascular endurance and overall flexibility. Get more out of every workout you do with this gear combo.</span></p>
+<p><strong><span>Material: </span></strong><span>100% Neoprene</span></p>
+<p><strong><span>Care: </span></strong><span>Hand wash in cold water only. Air dry away from direct sunlight. Do not dry clean, iron or tumble dry.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activewear</s:tag>
+    <s:tag>Collection_Sauna Suit</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Small / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XS*NZ-M77-Turq-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Small / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XS*NZ-M77-Turq-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Small / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XS*NZ-M77-Turq-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Small / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XS*NZ-M77-Turq-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Small / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XS*NZ-M77-Turq-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Small / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XS*NZ-M77-Turq-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Small / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XS*NZ-M77-Turq-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Small / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XS*NZ-M77-Turq-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Small / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-S*NZ-M77-Turq-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Small / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-S*NZ-M77-Turq-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Small / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-S*NZ-M77-Turq-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Small / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-S*NZ-M77-Turq-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Small / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-S*NZ-M77-Turq-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Small / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-S*NZ-M77-Turq-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Small / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-S*NZ-M77-Turq-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Small / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-S*NZ-M77-Turq-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Medium / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-M*NZ-M77-Turq-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Medium / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-M*NZ-M77-Turq-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Medium / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-M*NZ-M77-Turq-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Medium / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-M*NZ-M77-Turq-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Medium / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-M*NZ-M77-Turq-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Medium / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-M*NZ-M77-Turq-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Medium / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-M*NZ-M77-Turq-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Medium / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-M*NZ-M77-Turq-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-L*NZ-M77-Turq-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-L*NZ-M77-Turq-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-L*NZ-M77-Turq-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-L*NZ-M77-Turq-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-L*NZ-M77-Turq-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-L*NZ-M77-Turq-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-L*NZ-M77-Turq-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-L*NZ-M77-Turq-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XL*NZ-M77-Turq-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XL*NZ-M77-Turq-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XL*NZ-M77-Turq-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XL*NZ-M77-Turq-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XL*NZ-M77-Turq-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XL*NZ-M77-Turq-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XL*NZ-M77-Turq-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-XL*NZ-M77-Turq-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>2X-Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-2XL*NZ-M77-Turq-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>2X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-2XL*NZ-M77-Turq-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>2X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-2XL*NZ-M77-Turq-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>2X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-2XL*NZ-M77-Turq-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>2X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-2XL*NZ-M77-Turq-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>2X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-2XL*NZ-M77-Turq-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>2X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-2XL*NZ-M77-Turq-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>2X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-2XL*NZ-M77-Turq-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>3X-Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-3XL*NZ-M77-Turq-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>3X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-3XL*NZ-M77-Turq-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>3X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-3XL*NZ-M77-Turq-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>3X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-3XL*NZ-M77-Turq-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>3X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-3XL*NZ-M77-Turq-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>3X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-3XL*NZ-M77-Turq-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>3X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-3XL*NZ-M77-Turq-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>3X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-3XL*NZ-M77-Turq-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>4X-Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-4XL*NZ-M77-Turq-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>4X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-4XL*NZ-M77-Turq-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>4X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-4XL*NZ-M77-Turq-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>4X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-4XL*NZ-M77-Turq-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>4X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-4XL*NZ-M77-Turq-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>4X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-4XL*NZ-M77-Turq-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>4X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-4XL*NZ-M77-Turq-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470270165046</id>
+      <title>4X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-Turq-4XL*NZ-M77-Turq-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4470296313910</id>
+    <published>2020-04-28T17:02:58-07:00</published>
+    <updated>2020-04-28T17:02:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/nzg-sauna-tank-top-leggings-combo"/>
+    <title>NZG Sauna Tank Top/Leggings Combo</title>
+    <s:type>Sauna Suits</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/1-NZG-India-116-M78-M77-PU.jpg?v=1582591123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Sauna Suits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<span> </span><span>Increases oxygen consumption, which improves cardiovascular endurance</span>
+</li>
+<li>
+<span> </span><span>Raises internal temperature to increase flexibility</span>
+</li>
+<li>
+<span> </span><span>Reflective detailing for improved safety in low-light situations</span>
+</li>
+<li>
+<span> </span><span>Neoprene material with flat-lock stitching and mesh underarm design prevent skin irritation</span>
+</li>
+<li>
+<span> </span><span>Leggings have a high-waisted fit with a discreet zipper pocket</span>
+</li>
+<li>
+<span> </span><span>Tank top includes side zippers for convenient dressing </span>
+</li>
+</ul>
+<p><span>The NZG Sauna Vest/Shorts combo provides our customers with two critical factors: clothing that works with — not against — your exercise routine and a style that distinguishes you from the crowd. Wearing NZG sauna gear increases your body’s internal temperature, which improves cardiovascular endurance and overall flexibility. Get more out of every workout you do with this gear combo.</span></p>
+<p><strong><span>Material: </span></strong><span>100% Neoprene</span></p>
+<p><strong><span>Care: </span></strong><span>Hand wash in cold water only. Air dry away from direct sunlight. Do not dry clean, iron or tumble dry.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Small / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XS*NZ-M77-PU-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Small / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XS*NZ-M77-PU-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Small / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XS*NZ-M77-PU-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Small / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XS*NZ-M77-PU-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Small / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XS*NZ-M77-PU-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Small / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XS*NZ-M77-PU-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Small / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XS*NZ-M77-PU-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Small / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XS*NZ-M77-PU-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Small / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-S*NZ-M77-PU-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Small / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-S*NZ-M77-PU-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Small / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-S*NZ-M77-PU-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Small / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-S*NZ-M77-PU-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Small / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-S*NZ-M77-PU-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Small / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-S*NZ-M77-PU-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Small / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-S*NZ-M77-PU-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Small / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-S*NZ-M77-PU-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Medium / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-M*NZ-M77-PU-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Medium / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-M*NZ-M77-PU-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Medium / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-M*NZ-M77-PU-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Medium / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-M*NZ-M77-PU-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Medium / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-M*NZ-M77-PU-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Medium / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-M*NZ-M77-PU-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Medium / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-M*NZ-M77-PU-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Medium / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-M*NZ-M77-PU-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-L*NZ-M77-PU-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-L*NZ-M77-PU-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-L*NZ-M77-PU-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-L*NZ-M77-PU-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-L*NZ-M77-PU-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-L*NZ-M77-PU-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-L*NZ-M77-PU-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-L*NZ-M77-PU-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XL*NZ-M77-PU-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XL*NZ-M77-PU-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XL*NZ-M77-PU-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XL*NZ-M77-PU-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XL*NZ-M77-PU-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XL*NZ-M77-PU-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XL*NZ-M77-PU-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-XL*NZ-M77-PU-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>2X-Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-2XL*NZ-M77-PU-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>2X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-2XL*NZ-M77-PU-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>2X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-2XL*NZ-M77-PU-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>2X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-2XL*NZ-M77-PU-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>2X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-2XL*NZ-M77-PU-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>2X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-2XL*NZ-M77-PU-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>2X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-2XL*NZ-M77-PU-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>2X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-2XL*NZ-M77-PU-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>3X-Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-3XL*NZ-M77-PU-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>3X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-3XL*NZ-M77-PU-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>3X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-3XL*NZ-M77-PU-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>3X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-3XL*NZ-M77-PU-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>3X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-3XL*NZ-M77-PU-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>3X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-3XL*NZ-M77-PU-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>3X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-3XL*NZ-M77-PU-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>3X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-3XL*NZ-M77-PU-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>4X-Large / X-Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-4XL*NZ-M77-PU-XS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>4X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-4XL*NZ-M77-PU-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>4X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-4XL*NZ-M77-PU-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>4X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-4XL*NZ-M77-PU-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>4X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-4XL*NZ-M77-PU-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>4X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-4XL*NZ-M77-PU-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>4X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-4XL*NZ-M77-PU-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470296313910</id>
+      <title>4X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M78-PU-4XL*NZ-M77-PU-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/4470268395574</id>
+    <published>2020-04-28T17:02:15-07:00</published>
+    <updated>2020-04-28T17:02:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/men-s-sauna-vest-shorts-combo"/>
+    <title>Men’s Sauna Vest/Shorts Combo</title>
+    <s:type>Sauna Suits</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/1-NZ-M73-M82-0758.jpg?v=1582586685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Sauna Suits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<span> </span><span>Increases oxygen consumption, which improves cardiovascular endurance</span>
+</li>
+<li>
+<span> </span><span>Raises internal temperature to increase flexibility</span>
+</li>
+<li>
+<span> </span><span>Neoprene material with flat-lock stitching and mesh underarm design prevent skin irritation</span>
+</li>
+<li>
+<span> </span><span>Easy, quick-release zipper for convenience</span>
+</li>
+<li>
+<span> </span><span>Shorts include mesh crotch for better range of motion</span>
+</li>
+<li>
+<span> </span><span>Shorts have reflective detailing for improved safety in low-light situations</span>
+</li>
+</ul>
+<p><span>The Men’s Sauna Vest/Shorts combo was built with one goal in mind: helping you achieve your fitness goals. When you are doing cardiovascular training, the last thing you need is bulky clothing weighing you down. This lightweight combo will keep you limber and help increase one of the most important aspects of cardio exercise: your oxygen consumption. </span></p>
+<p><strong><span>Material: </span></strong><span>100% Neoprene</span></p>
+<p><strong><span>Care: </span></strong><span>Hand wash in cold water only. Air dry away from direct sunlight. Do not dry clean, iron or tumble dry.</span></p>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZG-Mens-NZ-M82-Vest-Amazon_480x480.png?v=1574799203" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Sauna Suit</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Medium / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-M*NZ-M73-BK-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Medium / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-M*NZ-M73-BK-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Medium / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-M*NZ-M73-BK-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Medium / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-M*NZ-M73-BK-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Medium / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-M*NZ-M73-BK-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Medium / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-M*NZ-M73-BK-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Medium / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-M*NZ-M73-BK-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-L*NZ-M73-BK-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-L*NZ-M73-BK-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-L*NZ-M73-BK-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-L*NZ-M73-BK-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-L*NZ-M73-BK-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-L*NZ-M73-BK-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-L*NZ-M73-BK-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-XL*NZ-M73-BK-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-XL*NZ-M73-BK-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-XL*NZ-M73-BK-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-XL*NZ-M73-BK-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-XL*NZ-M73-BK-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-XL*NZ-M73-BK-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-XL*NZ-M73-BK-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>2X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-2XL*NZ-M73-BK-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>2X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-2XL*NZ-M73-BK-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>2X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-2XL*NZ-M73-BK-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>2X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-2XL*NZ-M73-BK-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>2X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-2XL*NZ-M73-BK-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>2X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-2XL*NZ-M73-BK-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>2X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-2XL*NZ-M73-BK-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>3X-Large / Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-3XL*NZ-M73-BK-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>3X-Large / Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-3XL*NZ-M73-BK-M</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>3X-Large / Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-3XL*NZ-M73-BK-L</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>3X-Large / X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-3XL*NZ-M73-BK-XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>3X-Large / 2X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-3XL*NZ-M73-BK-2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>3X-Large / 3X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-3XL*NZ-M73-BK-3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/4470268395574</id>
+      <title>3X-Large / 4X-Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NZ-M82-BK-3XL*NZ-M73-BK-4XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

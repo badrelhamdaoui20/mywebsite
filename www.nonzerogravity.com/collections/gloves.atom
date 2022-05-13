@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/gloves.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2022-04-05T09:13:22-07:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6765067894838</id>
+    <published>2022-04-05T09:13:22-07:00</published>
+    <updated>2022-04-05T09:13:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/tech-touch-antimicrobial-full-finger-anti-slip-fitness-gloves"/>
+    <title>Calisthenics Anti-Slip Tech-Touch Fitness Gloves</title>
+    <s:type>Workout Wear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-WG-AS-GY-1.jpg?v=1649096429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Workout Wear<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>● Designed, based &amp; serviced in California<br>● Antimicrobial Zinc Oxide/ Self Sanitizing <br>● Slip Proof Design <br>● Tech-Touch Fingertips<br>● Odor-Proof Technology <br>● Reflective Strip <br><br>Get extra grip with a pair of Anti-Slip Fitness Gloves featuring Antimicrobial Zinc Oxide protection. The treated fabric repels germs and bacteria from your hands allowing you to wipe away sweat or grip unsanitized gear while remaining fresh. Anti-slip panels throughout the palms offer extra grip while running, hiking, biking, strength training, calisthenic workouts, practicing cardio, performing gravity-defying exercises and more. Slip the glove onto your wrist and secure the fit with a heavy-duty self-fastening strap. The index finger and thumb tips are touch screen smartphone-sensitive to keep you connected. <br><br><strong>Made in Taiwan</strong><br><br><strong>Materials</strong>: Microfiber, Ottoman, Neoprene<br><br><strong>Care</strong>: Hand wash cold. Lay flat to dry. Do not iron.<br><br><strong>Warranty</strong>: 1 Year Manufacturer Guarantee</p>
+<p> </p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-WG-AS-GY-6_480x480.jpg?v=1649095007"></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing Accessories</s:tag>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Workout Wear</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6765067894838</id>
+      <title>Small</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NZ-WG-AS-GY-S</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6765067894838</id>
+      <title>Medium</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NZ-WG-AS-GY-M</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6765067894838</id>
+      <title>Large</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NZ-WG-AS-GY-L</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6765054754870</id>
+    <published>2022-04-05T09:13:21-07:00</published>
+    <updated>2022-04-05T09:13:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/tech-touch-antimicrobial-full-finger-weightlifting-workout-gloves"/>
+    <title>Padded Weight Lifting Tech-Touch Workout Gloves</title>
+    <s:type>Workout Wear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-WG-PD-BK-1.jpg?v=1649094723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Workout Wear<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>● Designed, based &amp; serviced in California<br data-mce-fragment="1">● Antimicrobial/ Self Sanitizing <br data-mce-fragment="1">● Tech-Touch Fingertips<br data-mce-fragment="1">● Callus Padding Protection<br data-mce-fragment="1">● Odor-Proof Technology <br data-mce-fragment="1">● Wrist Pull Tab <br data-mce-fragment="1"><br data-mce-fragment="1">Antimicrobial Tech-Touch Padded Weight Lifting Workout Gloves offer extra-grip and a full-finger design with plush padding to keep your hands intact from calluses and abrasions. Made with ventilated antimicrobial fabric to repel germs and bacteria from sweat and dirty gym equipment while maintaining a fresh scent. Easy to adjust, slip and off with self fastening wrist strap and pull. Stay connected between sets with smartphone-sensitive touch screen tips on the index finger and thumb. <br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Made in Taiwan</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Materials</strong>: Lycra, Microfiber, SBR, Polyester, Ottoman<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Care</strong>: Machine wash cold. Lay flat to dry. Do not iron.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Warranty</strong>: 1 Year Manufacturer Guarantee <br data-mce-fragment="1"><br data-mce-fragment="1"><strong></strong><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/files/NZ-WG-PD-BK-6_480x480.jpg?v=1649094816"></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Workout Wear</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6765054754870</id>
+      <title>Small</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>NZ-WG-PD-BK-S</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6765054754870</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>NZ-WG-PD-BK-M</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6765054754870</id>
+      <title>Large</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>NZ-WG-PD-BK-L</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

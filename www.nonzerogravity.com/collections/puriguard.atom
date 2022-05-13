@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.nonzerogravity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.nonzerogravity.com/collections/puriguard.atom"/>
+  <title>nonzerogravity.com</title>
+  <updated>2021-06-29T08:22:40-07:00</updated>
+  <author>
+    <name>nonzerogravity.com</name>
+  </author>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6602040377398</id>
+    <published>2021-06-29T08:22:40-07:00</published>
+    <updated>2021-06-29T08:22:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/puriguard-antibacterial-balaclava"/>
+    <title>PURiGUARD Balaclava</title>
+    <s:type>Headgear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-H70-MB-1.jpg?v=1632164600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Headgear<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">● Designed, based &amp; serviced in California<br data-mce-fragment="1">● Antibacterial PURiGUARD® Technology<br data-mce-fragment="1">● Anti-chafe Liner <br data-mce-fragment="1">● 4-Way Stretch<br data-mce-fragment="1">● UPF 50+<br data-mce-fragment="1"><br data-mce-fragment="1">Get antibacterial protection while wrapped in a classic Balaclava next time you’re out on a motorcycle, hunting or skiing. PURiGUARD® technology protects and keeps you fresh using odorless and non-toxic Zinc Oxide for an antibacterial finish. Designed to be worn alone or layered under a helmet while absorbing sweat and keeping your eyesight free of excess moisture. A necessary sports gear addition to your next hunting trip or to be worn with ski goggles; the 4-way stretch allows you to mold the shape to fit your needs. Plus, get 50+ UPF sun protection and ride into the sunset free of sun and wind burn. <br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Materials</strong>: 92% Polyester, 8% Spandex<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Care</strong>: Machine wash cold. Lay flat to dry. Do not iron.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Warranty</strong>: 1 Year Manufacturer Guarantee <br data-mce-fragment="1"><br data-mce-fragment="1">Based in California. Made in Taiwan.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_PURiGUARD</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602040377398</id>
+      <title>Bronze</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>NZ-H70-BZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602040377398</id>
+      <title>Mulberry</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>NZ-H70-MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6602040377398</id>
+      <title>Cobalt</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>NZ-H70-CB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.nonzerogravity.com/products/6601831448630</id>
+    <published>2021-06-28T09:52:58-07:00</published>
+    <updated>2021-06-28T09:52:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.nonzerogravity.com/products/puriguard-antibacterial-neck-gaiter"/>
+    <title>PURiGUARD Neck Gaiter</title>
+    <s:type>Headgear</s:type>
+    <s:vendor>NonZero Gravity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0089/4379/6281/products/NZ-H30-BZ-1.jpg?v=1632164594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NonZero Gravity<br>
+        <strong>Type: </strong>Headgear<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>PURiGUARD Technology</li>
+<li>Antibacterial Finish</li>
+<li>Multi-Use Design</li>
+<li>4-Way Stretch</li>
+<li>UPF 50+</li>
+</ul>
+<p> </p>
+<p>The PURiGUARD Neck Gaiter is a multifunctional form-fitting cover with antibacterial protection. PURiGUARD technology uses odorless and non-toxic Zinc Oxide to provide an antibacterial fabric finish while reducing 60% of chemical and 41% of carbon emission during the manufacturing process. Lightweight, breathable material stretches in all four directions for a snug fit that can easily slide on and off. The flat-lock stitching lays smooth against your skin to prevent chafing. Follow the action indoor or outdoors with UPF 50+ sun protection.</p>
+<p><strong>Material:</strong> 92% Polyester, 8% Spandex</p>
+<p><strong>Care: </strong>Machine wash cold. Air dry. Do not iron.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_PURiGUARD</s:tag>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6601831448630</id>
+      <title>Bronze</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>NZ-H30-BZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6601831448630</id>
+      <title>Mulberry</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>NZ-H30-MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.nonzerogravity.com/products/6601831448630</id>
+      <title>Cobalt</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>NZ-H30-Cobalt</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
